@@ -1,0 +1,1 @@
+select id, date, date + interval 1 day next_date from orders

@@ -1,0 +1,1 @@
+select id, date, YEAR(date) year, MONTH(date) month, DAY(date) day from orders
